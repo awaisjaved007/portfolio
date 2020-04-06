@@ -1,2 +1,0 @@
-# portfolio
-React sample application
