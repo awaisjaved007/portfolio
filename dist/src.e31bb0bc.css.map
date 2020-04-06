@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"src.e31bb0bc.css","sourceRoot":"../src","sourcesContent":["body{\n  text-align: center;\n  font-size: 20px;\n  padding: 2.5%\n}\n\n.profile{\n  height: 200px;\n  width: 200px;\n  border-radius: 100px;\n}"]}

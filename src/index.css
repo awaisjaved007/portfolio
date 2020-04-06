@@ -1,0 +1,23 @@
+body{
+<<<<<<< HEAD
+    text-align: center;
+    font-size: 20px;
+    padding: 2.5%
+}
+
+.profile{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+=======
+  text-align: center;
+  font-size: 20px;
+  padding: 2.5%
+}
+
+.profile{
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+>>>>>>> feature/stateless-components
+}

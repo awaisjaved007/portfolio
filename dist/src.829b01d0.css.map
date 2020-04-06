@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CAClB,cAAe,CACf,YACF,CAEA,SACE,YAAa,CACb,WAAY,CACZ,mBACF","file":"src.829b01d0.css","sourceRoot":"../src","sourcesContent":["body{\n  text-align: center;\n  font-size: 20px;\n  padding: 2.5%\n}\n\n.profile{\n  height: 200px;\n  width: 200px;\n  border-radius: 100px;\n}"]}
